@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&family=Poppins:wght@500;600;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    text-align: center;
+}
+
+.main {
+    height: 100%;
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    background-image: url(camp.jpeg);
+    color:#22373c ;
+    font-family:'Poppins' ;
+
+}
+
+.main h1 {
+    font-size: 70px;
+    padding-top: 10%;
+    padding-bottom: 30px;
+}
+
+.main p {
+    font-size: 21px;
+}
+
+.button {
+    display: inline-block;
+    color: #22373c;
+    border: 1px solid #22373c;
+    padding:13px 20px ;
+    font-size: 17px;
+    border-radius: 10px;
+    margin-top: 30px;
+    transition: .5s ease-in-out ;
+}
+
+.button:hover {
+    background-color: #2a545f;
+    color: white;
+}
+
+.p {
+    background-color:#2a545f;
+    color: whitesmoke;
+    padding: 20px;
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+
+.p2 {
+    color: #22373c;
+    padding: 20px;
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+
+.p3{
+    width: 33%;
+    background-color:#2a545f;
+    color: whitesmoke;
+    padding: 20px;
+    font-family: 'Poppins';
+    font-size: 15px;
+    display
+}
+.p4{
+    width: 33%;
+    background-color:#;
+    color:#2a545f;
+    padding: 20px;
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+
+.p5{
+    width: 33%;
+    background-color:#2a545f;
+    color:#ffffff;
+    padding: 20px;
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+
+
+.allp {
+    display: inline-flex;}
+
+    
+
